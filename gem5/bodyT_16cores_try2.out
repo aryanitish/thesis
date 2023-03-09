@@ -1,0 +1,9 @@
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 22.1.0.0
+gem5 compiled Feb 12 2023 22:51:01
+gem5 started Feb 20 2023 14:25:01
+gem5 executing on ura, pid 2313981
+command line: build/X86/gem5.opt --outdir=../output_results/bodytrack_smallsize_16cores/try2actual16cores configs/example/gem5_library/x86-parsec-benchmarks-16cores.py --benchmark bodytrack --size simsmall --network=garnet
+

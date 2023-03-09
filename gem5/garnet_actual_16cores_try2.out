@@ -1,0 +1,15 @@
+nohup: ignoring input
+gem5 Simulator System.  https://www.gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version 22.1.0.0
+gem5 compiled Feb 12 2023 22:51:01
+gem5 started Mar  2 2023 15:15:48
+gem5 executing on ura, pid 2675948
+command line: build/X86/gem5.opt --outdir=../output_results/garnet/16cores/actual_garnet_invocation_16core_try2 configs/example/gem5_library/x86-parsec-benchmarks-16cores.py --network=garnet --benchmark bodytrack --size simsmall
+
+info: Standard input is not a terminal, disabling listeners.
+usage: x86-parsec-benchmarks-16cores.py [-h] --benchmark
+                                        {blackscholes,bodytrack,canneal,dedup,facesim,ferret,fluidanimate,freqmine,raytrace,streamcluster,swaptions,vips,x264}
+                                        --size {simsmall,simmedium,simlarge}
+x86-parsec-benchmarks-16cores.py: error: unrecognized arguments: --network=garnet
